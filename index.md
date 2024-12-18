@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: This is my GitHub blog
 ---
+heading: thanks
 
